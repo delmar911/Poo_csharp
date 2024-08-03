@@ -14,5 +14,16 @@ namespace Ejercicios.Entity
         {
             Area = area;
         }
+        public override void MostrarInformacion()
+        {
+            base.MostrarInformacion();
+            Console.WriteLine($"Area: {Area}");
+        }
+
+        public void TomarDecisiones()
+        {
+            Console.WriteLine($"{NombreCompleto} está tomando decisiones importantes.");
+        }
+
     }
 }
