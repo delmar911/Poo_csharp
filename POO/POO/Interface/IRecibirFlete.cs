@@ -1,12 +1,13 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicios.Interface
+namespace POO.Interface
 {
     public interface IRecibirFlete
     {
-        void RecibirFlete(int precio)
+        void RecibirFlete(int precio);
     }
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BF28C810-5426-4692-9671-BA9F2AF5DCA9}</ProjectGuid>
+    <ProjectGuid>{9C3466F1-7AC0-4C3C-863B-4243B79D6EDF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicios</RootNamespace>
-    <AssemblyName>Ejercicios</AssemblyName>
+    <RootNamespace>POO</RootNamespace>
+    <AssemblyName>POO</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entity\Empleado.cs" />
-    <Compile Include="Entity\Jefe.cs" />
-    <Compile Include="Interface\IEmpleado.cs" />
+    <Compile Include="Entity\Camion.cs" />
+    <Compile Include="Entity\CarroParticular.cs" />
+    <Compile Include="Entity\Taxi.cs" />
+    <Compile Include="Entity\Vehiculo.cs" />
+    <Compile Include="Interface\IPagarPasaje.cs" />
+    <Compile Include="Interface\IRecibirFlete.cs" />
+    <Compile Include="Interface\IRecogerCarga.cs" />
+    <Compile Include="Interface\IRecogerPersonas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\VehiculoService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="solid\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
