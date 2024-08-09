@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\PooExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{459036B1-64D7-4A88-879E-9C0AD42195A8}|PooExam\\PooExam.csproj|c:\\users\\usuario\\source\\repos\\pooexam\\pooexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459036B1-64D7-4A88-879E-9C0AD42195A8}|PooExam\\PooExam.csproj|solutionrelative:pooexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459036B1-64D7-4A88-879E-9C0AD42195A8}|PooExam\\PooExam.csproj|c:\\users\\usuario\\source\\repos\\pooexam\\pooexam\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459036B1-64D7-4A88-879E-9C0AD42195A8}|PooExam\\PooExam.csproj|solutionrelative:pooexam\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459036B1-64D7-4A88-879E-9C0AD42195A8}|PooExam\\PooExam.csproj|c:\\users\\usuario\\source\\repos\\pooexam\\pooexam\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459036B1-64D7-4A88-879E-9C0AD42195A8}|PooExam\\PooExam.csproj|solutionrelative:pooexam\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459036B1-64D7-4A88-879E-9C0AD42195A8}|PooExam\\PooExam.csproj|c:\\users\\usuario\\source\\repos\\pooexam\\pooexam\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459036B1-64D7-4A88-879E-9C0AD42195A8}|PooExam\\PooExam.csproj|solutionrelative:pooexam\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\PooExam\\PooExam\\ICalculable.cs",
+              "RelativeDocumentMoniker": "PooExam\\ICalculable.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\PooExam\\PooExam\\ICalculable.cs",
+              "RelativeToolTip": "PooExam\\ICalculable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:24:02.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\PooExam\\PooExam\\Empleado.cs",
+              "RelativeDocumentMoniker": "PooExam\\Empleado.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\PooExam\\PooExam\\Empleado.cs",
+              "RelativeToolTip": "PooExam\\Empleado.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:49:42.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\PooExam\\PooExam\\Program.cs",
+              "RelativeDocumentMoniker": "PooExam\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\PooExam\\PooExam\\Program.cs",
+              "RelativeToolTip": "PooExam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:41:10.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\PooExam\\PooExam\\Persona.cs",
+              "RelativeDocumentMoniker": "PooExam\\Persona.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\PooExam\\PooExam\\Persona.cs",
+              "RelativeToolTip": "PooExam\\Persona.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:41:43.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

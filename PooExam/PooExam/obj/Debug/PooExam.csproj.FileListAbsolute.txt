@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\PooExam\PooExam\bin\Debug\PooExam.exe.config
+C:\Users\usuario\source\repos\PooExam\PooExam\bin\Debug\PooExam.exe
+C:\Users\usuario\source\repos\PooExam\PooExam\bin\Debug\PooExam.pdb
+C:\Users\usuario\source\repos\PooExam\PooExam\obj\Debug\PooExam.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\PooExam\PooExam\obj\Debug\PooExam.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\PooExam\PooExam\obj\Debug\PooExam.exe
+C:\Users\usuario\source\repos\PooExam\PooExam\obj\Debug\PooExam.pdb
